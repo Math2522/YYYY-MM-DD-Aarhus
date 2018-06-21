@@ -1,19 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    # Software Carpentry
-venue: "FIXME"        # Aarhus University
-address: "FIXME"      # Fuglsangs alle 4, 8210 Aarhus V.
-country: "FIXME"      # dk
-language: "FIXME"     # eng
-latlng: "FIXME"       # 56.162233, 10.182491
-humandate: "FIXME"    # Jan 17-18, 2018
-humantime: "FIXME"    # 09.00 - 16.00
-startdate: FIXME      # 2018-01-17
-enddate: FIXME        # 2018-01-18
-instructor: ["FIXME"] # ["Mathias Barløse"]
-helper: ["FIXME"]     # ["Micheal Jackson"]
-email: ["fixme@example.org"]    # [@mathias@barlose.dk"]
-collaborative_notes:             # https://docs.google.com/document/d/1yuX4wRyXNMHDOncpzTxdxJTaAIznLqC7q_-5NpkxeJQ/edit#
+carpentry: "Software Carpentry"    # Software Carpentry
+venue: "Aarhus University"        # Aarhus University
+address: "Fuglsangs alle 4, 8210 Aarhus V."      # Fuglsangs alle 4, 8210 Aarhus V.
+country: "dk"      # dk
+language: "eng"     # eng
+latlng: "56.162233, 10.182491"       # 56.162233, 10.182491
+humandate: "Jan 17-18, 2018"    # Jan 17-18, 2018
+humantime: "09.00 - 16.00"    # 09.00 - 16.00
+startdate: 2018-01-17      # 2018-01-17
+enddate: 2018-01-18        # 2018-01-18
+instructor:["Mathias Barløse"] # ["Mathias Barløse"]
+helper:["Micheal Jackson"]    # ["Micheal Jackson"]
+email: [@mathias@barlose.dk"]  # [@mathias@barlose.dk"]
+collaborative_notes:  "https://docs.google.com/document/d/1yuX4wRyXNMHDOncpzTxdxJTaAIznLqC7q_-5NpkxeJQ/edit"
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
