@@ -3,10 +3,9 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
 
 # Overall title for pages.
-title: "Finding ducks in your backyard pond"
+title: "Workshop page"
 
 # Contact email address.
 email: mathias@barlose.dk
